@@ -28,8 +28,7 @@ const generatePDF = async (name) => {
   firstPage.drawText(name, {
     x: 220,
     y: 270,
-    size: 40,
-    font: SanChezFont,
+    size: 30,
   });
   const pdfBytes = await pdfDoc.save();
   console.log("Certificado Creado");
