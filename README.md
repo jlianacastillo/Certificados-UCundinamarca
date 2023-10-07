@@ -1,6 +1,4 @@
-# Pagina 👩‍💻
-[Pagina de Certificados-UCundinamarca](https://certificadoucundinamarca.github.io/)
-* Enlace : https://certificadoucundinamarca.github.io/
+
 # Certificados-UCundinamarca 🥇
 * JavaScript 💛
 * HTML 🩻
